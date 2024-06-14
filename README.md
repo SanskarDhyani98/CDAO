@@ -31,12 +31,12 @@ To get started with the CDAO-site, follow the steps below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/c-d-a-o/cdao-site.git
+   git clone https://github.com/SanskarDhyani98/CDAO.git
    ```
 2. Navigate to the project directory:
 
    ```bash
-   cd cdao-site
+   cd CDAO
    ```
 3. Install the dependencies:
 
